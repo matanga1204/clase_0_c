@@ -7,7 +7,8 @@ GIT init                        CREAMOS UN REPOSITORIO
 GIT ADD                         AGREGAMOS UN ARCHIVO AL AREA DE SEGUIMIENTO
 GIT STATUS                      INFO DEL REPOSITORIO 
 GIT COMMIT o GIT COMMIT -m      mensaje representativo
-GIT PUSH
+GIT PUSH origin master          ingresarlo los archivos al remoto
 GIT PULL
 GIT CLONE
-GIT RESET  <file> o <commit>    SACAR ARCHIVO DEL GIT            
+GIT RESET  <file> o <commit>    SACAR ARCHIVO DEL GIT  
+GIT CHECKOUT                    TE LLEVA UN UN PUNTO DE LOS COMMIT          
