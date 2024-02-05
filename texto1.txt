@@ -6,7 +6,7 @@ Comandos Basicos
 GIT init                        CREAMOS UN REPOSITORIO
 GIT ADD                         AGREGAMOS UN ARCHIVO AL AREA DE SEGUIMIENTO
 GIT STATUS                      INFO DEL REPOSITORIO 
-GIT COMMIT o GIT COMMIT -a     
+GIT COMMIT o GIT COMMIT -m      mensaje representativo
 GIT PUSH
 GIT PULL
 GIT CLONE
